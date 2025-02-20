@@ -1,3 +1,4 @@
 <?php
-phpinfo();
+phpinfo
 11111
+2222323242
